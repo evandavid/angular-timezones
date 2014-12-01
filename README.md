@@ -1,5 +1,9 @@
 # Timezones for AngularJS [![Build Status](https://secure.travis-ci.org/michaelahlers/angular-timezones.png)](http://travis-ci.org/michaelahlers/angular-timezones)
 
+## Deprecation Notice
+
+This project will not receive additional features, bug fixes, or any other maintenance, and the project will be deleted on January 1, 2015. If you wish to continue development or work with more active projects where issues might be resolved, please see [forks](https://github.com/michaelahlers/angular-timezones/network).
+
 [AngularJS](http://angularjs.com/) features for [TimezoneJS](https://github.com/mde/timezone-js)-enhanced JavaScript `Date` objects.
 
 ## Inclusion
